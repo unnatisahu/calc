@@ -9,6 +9,8 @@ int b= sc.nextInt();
 
 int sum= a+b;
 System.out.println("Addition" + sum);
+
+  int multiply = a*b;
+  System.out.println("multiplication" + multiply);
 }
-  System.out.println("hello world");
 }
